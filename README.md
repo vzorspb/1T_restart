@@ -3,3 +3,5 @@
 Andrey Nevzorov
 
 Hobby: Corky Bell "Maximum boost" and wankel rotary engine.
+
+Education: Master of Instrument Engineering
